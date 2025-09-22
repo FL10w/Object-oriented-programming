@@ -1,0 +1,2 @@
+/usr/bin/ar qc libllab1_lib.a CMakeFiles/llab1_lib.dir/func.c++.o
+/usr/bin/ranlib libllab1_lib.a
