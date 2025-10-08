@@ -1,0 +1,6 @@
+/home/flow/Documents/vsc/oop/llab2/build/CMakeFiles/llab2_lib.dir
+/home/flow/Documents/vsc/oop/llab2/build/CMakeFiles/llab2_exe.dir
+/home/flow/Documents/vsc/oop/llab2/build/CMakeFiles/tests.dir
+/home/flow/Documents/vsc/oop/llab2/build/CMakeFiles/test.dir
+/home/flow/Documents/vsc/oop/llab2/build/CMakeFiles/edit_cache.dir
+/home/flow/Documents/vsc/oop/llab2/build/CMakeFiles/rebuild_cache.dir

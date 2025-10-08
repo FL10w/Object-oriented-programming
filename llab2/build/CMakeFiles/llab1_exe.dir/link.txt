@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/llab1_exe.dir/link.d CMakeFiles/llab1_exe.dir/main.c++.o -o llab1_exe  libllab1_lib.a
