@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/editor.dir/link.d CMakeFiles/editor.dir/main.c++.o CMakeFiles/editor.dir/func.c++.o -o editor
