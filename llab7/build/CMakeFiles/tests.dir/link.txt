@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -Wl,--dependency-file=CMakeFiles/tests.dir/link.d CMakeFiles/tests.dir/test.c++.o CMakeFiles/tests.dir/func.c++.o -o tests  /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a

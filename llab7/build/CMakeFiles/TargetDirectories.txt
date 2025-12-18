@@ -1,0 +1,5 @@
+/home/flow/Documents/vsc/oop/llab7/build/CMakeFiles/editor.dir
+/home/flow/Documents/vsc/oop/llab7/build/CMakeFiles/tests.dir
+/home/flow/Documents/vsc/oop/llab7/build/CMakeFiles/test.dir
+/home/flow/Documents/vsc/oop/llab7/build/CMakeFiles/edit_cache.dir
+/home/flow/Documents/vsc/oop/llab7/build/CMakeFiles/rebuild_cache.dir
